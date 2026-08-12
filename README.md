@@ -14,5 +14,5 @@
   | <u>Associate (L2) Unified Inventory R24 Curriculum </u> <br> ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=flat&logo=nokia&logoColor=white) | [💾](<./PDFs/Nokia/Associate (L2) Unified Inventory R24 Curriculum.pdf>) |
   | <u> CNS BA KMCD L2 Learning Path - FlowOne - Test Professional </u> <br> ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=flat&logo=nokia&logoColor=white) ![Testing](https://img.shields.io/badge/🧪_Testing-green)| [💾](<./PDFs/Nokia/CNS BA KMCD L2 Learning Path - FlowOne - Test Professional.pdf>) |
   | <u> Professional (L3) FlowOne R24 Engineer Certification </u> <br> ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=flat&logo=nokia&logoColor=white) | <u>(pending)</u> |
-
+  | <u> Associate (L2) Nokia Orchestration Center Curriculum </u> <br> ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=flat&logo=nokia&logoColor=white) | <u>(pending)</u> |
 ---
