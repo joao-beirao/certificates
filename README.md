@@ -3,6 +3,7 @@
 ## General Certificates 
 | Certificate | PDF |
 |------|-------|
+| <u>Cloud Native: Kubernetes </u> <br> ![Nokia](https://img.shields.io/badge/Nokia-%23124191.svg?style=for&logo=nokia&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) | [💾](<./PDFs/Cloud Native- Kubernetes.pdf>) |
 |<u>Bash Mastery: The Complete Guide to Bash Shell Scripting</u><br>![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)|[💾](<./PDFs/bash.pdf>)|
 | <u>JMeter - Testes de performance</u> <br> ![Testing](https://img.shields.io/badge/🧪_Testing-green) | [💾](<./PDFs/JMeter.pdf>) |
 ---
