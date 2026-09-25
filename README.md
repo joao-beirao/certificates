@@ -5,6 +5,7 @@
 |------|-------|
 | <u>Foundation (L1) Digital Operations Curriculum </u> <br> ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23C71A36.svg?&logo=Apache%20Maven&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?&logo=elasticsearch&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&logo=Prometheus&logoColor=white) | [💾](<./PDFs/Foundation (L1) Digital Operations Curriculum.pdf>) |
 | <u>Cloud Native: Kubernetes </u> <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) | [💾](<./PDFs/Cloud Native- Kubernetes.pdf>) |
+|<u>Jenkins: Beginner To Pro, Learn CI/CD Pipelines & Automation</u><br>![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?&logo=jenkins&logoColor=white)|[💾](<./PDFs/Jenkins.pdf>)
 |<u>Bash Mastery: The Complete Guide to Bash Shell Scripting</u><br>![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)|[💾](<./PDFs/bash.pdf>)|
 | <u>Rust: The Complete Developer's Guide</u> <br> ![Rust](https://img.shields.io/badge/Rust-%23121011.svg?&logo=rust&logoColor=orange) | [💾](<./PDFs/rust.pdf>) |
 | <u>JMeter - Testes de performance</u> <br> ![Testing](https://img.shields.io/badge/🧪_Testing-green) | [💾](<./PDFs/JMeter.pdf>) |
